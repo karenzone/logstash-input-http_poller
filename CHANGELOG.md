@@ -1,3 +1,7 @@
+## 4.0.6
+  - Changed `schedule` entry to show that it is required
+  
+
 ## 4.0.5
   - Docs: Set the default_codec doc attribute.
 
